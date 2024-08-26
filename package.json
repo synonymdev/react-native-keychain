@@ -1,6 +1,6 @@
 {
   "name": "@synonymdev/react-native-keychain",
-  "version": "8.2.1",
+  "version": "8.2.2",
   "description": "Keychain Access for React Native",
   "main": "index.js",
   "files": [

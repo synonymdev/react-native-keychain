@@ -1,6 +1,6 @@
 {
-  "name": "react-native-keychain",
-  "version": "8.2.0",
+  "name": "@synonymdev/react-native-keychain",
+  "version": "8.2.1",
   "description": "Keychain Access for React Native",
   "main": "index.js",
   "files": [
@@ -31,9 +31,9 @@
     "name": "Joel Arvidsson",
     "email": "joel@oblador.se"
   },
-  "homepage": "https://github.com/oblador/react-native-keychain",
+  "homepage": "https://github.com/synonymdev/react-native-keychain",
   "bugs": {
-    "url": "https://github.com/oblador/react-native-keychain/issues"
+    "url": "https://github.com/synonymdev/react-native-keychain/issues"
   },
   "typescript": {
     "definition": "typings/react-native-keychain.d.ts"
@@ -41,7 +41,7 @@
   "types": "typings/react-native-keychain.d.ts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/oblador/react-native-keychain.git"
+    "url": "git://github.com/synonymdev/react-native-keychain.git"
   },
   "license": "MIT",
   "devDependencies": {
